@@ -30,8 +30,8 @@ This project explores and analyzes crime trends across Los Angeles using data pu
 
 Due to GitHub’s file size limits, large datasets used for this project are hosted externally:
 
-- [Download Full Dataset (CSV)](https://drive.google.com/your-full-dataset-link)
-- [Download Cleaned Dataset (CSV)](https://drive.google.com/your-cleaned-dataset-link)
+- [Download Full Dataset (CSV)](https://drive.google.com/file/d/1PIJ_RnvUV77WFqUuUg_RPOEJfw9mcWrx/view?usp=sharing)
+- [Download Cleaned Dataset (CSV)](https://drive.google.com/file/d/1Zuk4Yl3SE8YYo_cYw7L47GwGbdRNlt7R/view?usp=sharing)
 
 ## 🎯 Project Objective
 
