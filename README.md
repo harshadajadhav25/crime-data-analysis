@@ -10,9 +10,8 @@ This project explores and analyzes crime trends across Los Angeles using data pu
 ```
 📦 Crime-Data-Analysis/
 ├── 📒 Crime Data Analysis.ipynb         # Main Jupyter Notebook
-├── 📄 sample_crime_data.csv             # Small sample dataset (1,000 rows)
-├── 📄 cleaned_crime_data.csv            # Cleaned and processed dataset
-├── 📄 Crime_Dashboard.twbx              # Tableau dashboard file
+├── 📄 crime_data_sample.csv             # Small sample dataset (1,000 rows)
+├── 📄 LAPD_Crime_Dashboard.twbx         # Tableau dashboard file
 └── 📄 README.md                         # Project documentation
 ```
 
@@ -27,6 +26,12 @@ This project explores and analyzes crime trends across Los Angeles using data pu
 - Features: ~1 million records, 28 columns, covering crime type, time, location, victim demographics, and weapons used.
 
 ---
+## 🔗 Large Dataset Downloads
+
+Due to GitHub’s file size limits, large datasets used for this project are hosted externally:
+
+- [Download Full Dataset (CSV)](https://drive.google.com/your-full-dataset-link)
+- [Download Cleaned Dataset (CSV)](https://drive.google.com/your-cleaned-dataset-link)
 
 ## 🎯 Project Objective
 
@@ -59,8 +64,6 @@ Here are a few of the visualizations used in our analysis:
 
 ### 🌍 Top Crime Categories
 ![Top Areas](images/top_crime_category.png)
-
-*(📌 Save the graphs as PNGs and place them in an `images/` folder.)*
 
 You can explore the full dashboard on Tableau Public or with the provided `.twbx` file.
 
