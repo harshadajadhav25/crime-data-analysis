@@ -1,9 +1,34 @@
+# Crime Data Analysis & Visualization (LAPD)
 
-# 🕵️‍♀️ Crime Data Analysis – Los Angeles (2020 to Present)
+## Overview
+Analyzed 1M+ Los Angeles crime records to identify trends by location, time, and crime type.  
+Built interactive Tableau dashboards to communicate insights through maps, time-series trends, and category breakdowns.
 
-This project explores and analyzes crime trends across Los Angeles using data published by the LAPD. It includes data cleaning, preprocessing, visualization in Tableau, and insights generation to help government bodies and the public better understand criminal patterns.
+## Tech Stack
+- Python: Pandas, NumPy
+- SQL
+- Tableau
+- Data Cleaning & Preprocessing
 
----
+## Dataset
+- LAPD Crime Data (Los Angeles Open Data)
+
+## What I Did
+- Cleaned and standardized raw records (missing values, duplicates, normalization)
+- Created analysis-ready features (date/time fields, categories, geographic columns)
+- Performed exploratory analysis to identify:
+  - Hotspots by area/division
+  - Crime trends over time (monthly/yearly patterns)
+  - Top crime categories by region
+- Designed Tableau dashboards:
+  - Geospatial maps for hotspot analysis
+  - Time series trend charts
+  - Category breakdowns and comparisons
+
+## Key Insights (Examples)
+- Identified high-frequency crime areas and top crime categories per region
+- Found peak times/days for specific crime types
+- Observed time-based patterns that can support resource allocation decisions
 
 ## 📁 Project Structure
 
@@ -96,15 +121,6 @@ You can explore the full dashboard on Tableau Public or with the provided `.twbx
 
 ---
 
-## 🛠️ Tools and Technologies
-
-- **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn)
-- **Visualization:** Tableau
-- **Environment:** Jupyter Notebook
-- **Data Source:** LAPD via data.gov
-
----
-
-## 📧 Contact
-
-Made with 💻 by [Harshada Jadhav](https://www.linkedin.com/in/harshada-jadhav/)
+## Author
+Harshada Jadhav  
+LinkedIn: https://www.linkedin.com/in/harshada-jadhav/
