@@ -12,6 +12,10 @@ Built interactive Tableau dashboards to communicate insights through maps, time-
 
 ## Dataset
 - LAPD Crime Data (Los Angeles Open Data)
+- Full Dataset (not hosted in repo due to size):  
+  🔗 [Crime Data from 2020 to Present – Data.gov](https://catalog.data.gov/dataset/crime-data-from-2020-to-present)
+- Published by: Los Angeles Police Department (LAPD)  
+- Features: ~1 million records, 28 columns, covering crime type, time, location, victim demographics, and weapons used.
 
 ## What I Did
 - Cleaned and standardized raw records (missing values, duplicates, normalization)
@@ -41,41 +45,12 @@ Built interactive Tableau dashboards to communicate insights through maps, time-
 ```
 
 ---
-
-## 📊 Dataset Source
-
-- Full Dataset (not hosted in repo due to size):  
-  🔗 [Crime Data from 2020 to Present – Data.gov](https://catalog.data.gov/dataset/crime-data-from-2020-to-present)
-
-- Published by: Los Angeles Police Department (LAPD)  
-- Features: ~1 million records, 28 columns, covering crime type, time, location, victim demographics, and weapons used.
-
----
 ## 🔗 Large Dataset Downloads
 
 Due to GitHub’s file size limits, large datasets used for this project are hosted externally:
 
 - [Download Full Dataset (CSV)](https://drive.google.com/file/d/1PIJ_RnvUV77WFqUuUg_RPOEJfw9mcWrx/view?usp=sharing)
 - [Download Cleaned Dataset (CSV)](https://drive.google.com/file/d/1Zuk4Yl3SE8YYo_cYw7L47GwGbdRNlt7R/view?usp=sharing)
-
-## 🎯 Project Objective
-
-The purpose of this project is to identify crime patterns that can inform law enforcement strategies, urban planning, and public awareness. We focused on:
-- Frequent crime types
-- High-crime geographic areas
-- Victim demographics
-- Time-based crime trends
-
----
-
-## 🧹 Data Cleaning & Preprocessing
-
-- Handled missing values
-- Removed duplicates
-- Standardized formats (time, dates, category labels)
-- Created a cleaned and structured dataset for analysis
-
----
 
 ## 📊 Visual Insights (Tableau & Python)
 
